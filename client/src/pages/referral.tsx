@@ -16,9 +16,9 @@ export default function Referral() {
     { wager: "> $25,000", payout: "$25", min: 25000, max: 50000 },
     { wager: "> $50,000", payout: "$50", min: 50000, max: 100000 },
     { wager: "> $100,000", payout: "$100", min: 100000, max: 250000 },
-    { wager: "> $250,000", payout: "$250", min: 250000, max: 500000 },
-    { wager: "> $500,000", payout: "$500", min: 500000, max: 1000000 },
-    { wager: "> $1,000,000", payout: "$1,000", min: 1000000, max: 2500000 },
+    { wager: "> $250,000", payout: "$150", min: 250000, max: 500000 },
+    { wager: "> $500,000", payout: "$250", min: 500000, max: 1000000 },
+    { wager: "> $1,000,000", payout: "$400", min: 1000000, max: 2500000 },
     { wager: "> $2,500,000", payout: "$2,500", min: 2500000, max: Infinity },
   ];
 
